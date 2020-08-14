@@ -1,6 +1,9 @@
-# Wildbeast 
+## Grid Layout
+![screenshot Grid layout](design/screen.png)
 
-Projeto final do curso de css c/ grid.
+## Preview
+[Grid Layout](https://ridneto.github.io/wildbeast/#)
 
-Tópicos: https://www.origamid.com/projetos/css-grid-layout-guia-completo/
-
+## Origamid  
+[Origamid](https://www.origamid.com)  
+Curso: [CSS Grid Layout](https://www.origamid.com/curso/css-grid-layout)
