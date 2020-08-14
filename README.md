@@ -1,5 +1,5 @@
 ## Grid Layout
-![screenshot Grid layout](design/screen.png)
+![screenshot Grid layout](/design/layout.png)
 
 ## Preview
 [Grid Layout](https://ridneto.github.io/wildbeast/#)
